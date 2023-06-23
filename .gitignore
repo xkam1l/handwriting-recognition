@@ -1,0 +1,4 @@
+/digit_recognition/handwritten_digit_recognition/
+.DS_Store
+.idea
+*.pyc
